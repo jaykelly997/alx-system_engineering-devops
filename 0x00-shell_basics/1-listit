@@ -1,0 +1,1 @@
+bin\bash wc -1 Applications wc -2 Documents wc -3 Dropbox wc -4 Movies wc -5 Pictures wc -6 Desktop wc -7 Downloads wc -8 Library wc -9 Music wc -10 Public
